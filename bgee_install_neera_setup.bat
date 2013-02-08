@@ -1,0 +1,1 @@
+weidu neera\neera.tp2 --script-style BG2 --tlkin .\lang\en_US\dialog.tlk --tlkout .\lang\en_US\dialog.tlk --log neera_bgee.DEBUG
